@@ -29,7 +29,7 @@ O script scripts/demo_segura.py exibe mensagens fictícias no terminal. Não ace
 
 Uma simulação didática ajuda a discutir conceitos, mas não detecta nem remove malware e não substitui ferramentas de segurança ou uma análise profissional.
 
-## Boas práticas defensivas
+## Boas práticas defensiva 
 
 - Mantenha o sistema operacional, o navegador e os aplicativos atualizados.
 - Use autenticação multifator e senhas únicas, guardadas em um gerenciador confiável.
