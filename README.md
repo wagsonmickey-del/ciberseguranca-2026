@@ -25,7 +25,7 @@ Ransomware é um tipo de malware que pode impedir o acesso a dados, frequentemen
 
 ## Demonstração segura
 
-O exemplo planejado para este repositório exibirá mensagens fictícias no terminal. Não terá acesso a APIs de teclado, arquivos pessoais, inicialização do sistema ou rede. Não coleta, armazena ou transmite informações.
+O script scripts/demo_segura.py exibe mensagens fictícias no terminal. Não acessa a APIs de teclado, arquivos pessoais, inicialização do sistema ou rede. Não coleta, armazena ou transmite informações.
 
 Uma simulação didática ajuda a discutir conceitos, mas não detecta nem remove malware e não substitui ferramentas de segurança ou uma análise profissional.
 
